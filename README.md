@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![NewsWave Logo](assets/images/logo.png)
+![NewsWave Logo](newave-logo.jpg)
 
 [![GitHub stars](https://img.shields.io/github/stars/newswave/newswave)](https://github.com/newswave/newswave/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -176,8 +176,6 @@ A: Rewards are automatically sent to your connected Solana wallet address.
 
 ## 📱 Community & Support
 
-- [Discord](https://discord.gg/newswave)
-- [Telegram](https://t.me/newswave)
 - [Twitter](https://twitter.com/NewsWaveSOL)
 - [Medium](https://medium.com/@newswave)
 

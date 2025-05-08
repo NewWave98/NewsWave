@@ -133,7 +133,7 @@ GET /api/v1/predictions
 POST /api/v1/votes
 ```
 
-For complete API documentation, please refer to: [API Documentation](docs/api.md)
+For complete API documentation, please refer to: [API Documentation](https://newswave.cc)
 
 ## 🤝 Contributing Guidelines
 
@@ -177,8 +177,8 @@ A: Rewards are automatically sent to your connected Solana wallet address.
 ## 📱 Community & Support
 
 - [Twitter](https://twitter.com/NewsWaveSOL)
-- [Medium](https://medium.com/@newswave)
+- [website](https://newswave.cc)
 
 ## 📄 License
 
-This project is licensed under the [MIT](LICENSE) License.
+This project is licensed under the MIT License.

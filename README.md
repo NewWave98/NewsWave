@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NewsWaveSOL?style=social)](https://x.com/NewsWaveSOL)
 
-[Official Website](https://newwave.onl) | [Documentation](docs/README.md) | [Contributing](CONTRIBUTING.md)
+[Official Website](https://newwave.onl) | [Documentation](docs/README.md) |
 
 An AI-powered WEB3 news analysis tool built on Solana blockchain
 

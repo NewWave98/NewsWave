@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "NewsWave",
+    "version": "0.1.0",
+    "environment": "development"
+  },
+  "server": {
+    "port": 8000,
+    "host": "localhost"
+  },
+  "database": {
+    "mongodb": {
+      "uri": "mongodb://localhost:27017/newswave",
+      "options": {
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true
+      }
+    }
+  },
+  "ai": {
+    "modelPath": "./models/sentiment/bert_model",
+    "updateInterval": 300,
+    "confidenceThreshold": 0.75
+  },
+  "blockchain": {
+    "network": "mainnet-beta",
+    "rpcUrl": "https://api.mainnet-beta.solana.com"
+  }
+}

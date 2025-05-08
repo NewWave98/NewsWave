@@ -4,8 +4,6 @@
 
 ![NewsWave Logo](newave-logo.jpg)
 
-[![GitHub stars](https://img.shields.io/github/stars/newswave/newswave)](https://github.com/newswave/newswave/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NewsWaveSOL?style=social)](https://x.com/NewsWaveSOL)
 
 [Official Website](https://newswave.cc)

@@ -60,7 +60,7 @@ graph TD
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/newswave.git
+git clone https://github.com/NewWave98/NewsWave.git
 cd newswave
 ```
 

@@ -142,7 +142,7 @@ We welcome community members to contribute to NewsWave! Here are some ways to pa
 - Submit code PRs
 - Participate in community discussions
 
-For detailed guidelines, please refer to: [Contributing Guidelines](CONTRIBUTING.md)
+For detailed guidelines, please refer to: [Contributing Guidelines](https://newswave.cc)
 
 ## 📅 Roadmap
 
